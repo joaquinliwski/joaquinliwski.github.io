@@ -86,7 +86,7 @@ author:
   location         : "Ciudad Autónoma de Buenos Aires"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://www.youtube.com/watch?v=mCdA4bJAGGk"
   email            : "jmliwski@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/watch?v=mCdA4bJAGGk"
   wikipedia        :
 
 
