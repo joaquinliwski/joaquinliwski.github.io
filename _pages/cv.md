@@ -14,7 +14,7 @@ Education
 * Licenciado en Economía, UTDT, 2018-2021
 * Magister en Economía (en proceso), UdeSA 2022
 
-Work experience
+Experiencia Laboral
 ======
 * Noviembre 2021 - actualidad: Asistente de Investigación
   * CEPE-UTDT
