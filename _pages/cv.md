@@ -27,18 +27,18 @@ Experiencia Laboral
   
 Aptitudes
 ======
-*Software: 
-  *LATEX
-  *R
-  *STATA, 
-  *Microsoft Office
-  *Matlab (básico) 
-  *Python (básico)
-*Idiomas: 
-  *Español (Nativo)
-  *Inglés (C1 MCER)
-*Cursos:
-  *Algebra Lineal y Análisis Real
-  *Teoría de la Medida 
-  *Introductorio a Evaluaci´on de Impacto.
+* Software: 
+  * LATEX
+  * R
+  * STATA, 
+  * Microsoft Office
+  * Matlab (básico) 
+  * Python (básico)
+* Idiomas: 
+  * Español (Nativo)
+  * Inglés (C1 MCER)
+* Cursos:
+  * Algebra Lineal y Análisis Real
+  * Teoría de la Medida 
+  * Introductorio a Evaluaci´on de Impacto.
 
