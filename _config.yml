@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Joaquin Liwski"
   avatar           : "fotaza.jpeg"
-  bio              : "Un Tipazo"
+  bio              : "Estudiante de Economía"
   location         : "Ciudad Autónoma de Buenos Aires"
   employer         :
   pubmed           : 
-  googlescholar    : "https://www.youtube.com/watch?v=mCdA4bJAGGk"
+  googlescholar    : 
   email            : "jmliwski@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -99,7 +99,7 @@ author:
   github           : "joaquinliwski"
   google_plus      :
   keybase          :
-  instagram        : "officialrickastley"
+  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
