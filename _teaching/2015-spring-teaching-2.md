@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Juegos y Comportamiento Estratégico"
 collection: teaching
-type: "Workshop"
+type: "Teaching Assistant"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Universidad de San Andrés"
+date: 2022-06-01
+location: "Buenos Aires, Argentina"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
